@@ -1,10 +1,10 @@
 # Dự phóng điểm rơi thị trường Crypto năm 2023
 
-*Tiếp sau bài viết về* [*kế hoạch 3 năm cho chu kỳ thị trường Crypto 2022-2025*](https://viniumcapital.com/ke-hoach-3-nam-3-giai-doan-2022-2025-dua-tren-chinh-sach-tien-te)*, mình tiếp tục xuất bản nội dung về dự phóng điểm rơi của thị trường trong năm 2023 nhằm mục đích đi vào chi tiết kế hoạch cho riêng 2023*  
-  
-\--------------------------------------  
-  
-Mỗi chu kỳ thị trường sẽ lặp lại về mặt cấu trúc với các giai đoạn tích lũy - tăng trưởng - phân phối - suy thoái theo quy luật kinh tế; tài chính và tâm lý không gì khác. Mặt khác, sự tương đồng giữa các chu kỳ sẽ có khi khác biệt về biên độ % và khung thời gian diễn ra
+*Tiếp sau bài viết về* [*kế hoạch 3 năm cho chu kỳ thị trường Crypto 2022-2025*](https://viniumcapital.com/ke-hoach-3-nam-3-giai-doan-2022-2025-dua-tren-chinh-sach-tien-te)*, mình tiếp tục xuất bản nội dung về dự phóng điểm rơi của thị trường trong năm 2023 nhằm mục đích đi vào chi tiết kế hoạch cho riêng 2023*
+
+\--------------------------------------
+
+Mỗi chu kỳ thị trường sẽ lặp lại về mặt cấu trúc với các giai đoạn tích lũy - tăng trưởng - phân phối - suy thoái theo quy luật kinh tế; tài chính và tâm lý không gì khác. Mặt khác, sự tương đồng giữa các chu kỳ sẽ có khác biệt về biên độ % và khung thời gian diễn ra
 
 Điều đó có nghĩa là chúng ta không thể lấy y chang mô hình giá của quá khứ để áp vào hiện tại, nhất là những biến động ngắn hạn. Điều đó rất dễ dẫn đến thái độ chấp trước và vướng vào thiên kiến mang tính chủ quan cá nhân của người quan sát vì thực tế thị trường đâu có quan tâm ý chí chủ quan của cá nhân nào!
 

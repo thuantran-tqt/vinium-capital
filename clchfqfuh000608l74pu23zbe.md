@@ -33,7 +33,12 @@ Mình gom các dữ liệu thấy được về 2 biến số lớn là vĩ mô 
 
 ***1\. Biến số vĩ mô:*** câu chuyện trọng tâm của năm 2023 không còn lạm phát như 2022, mà là lợi nhuận doanh nghiệp sụt giảm =&gt; tồn kho tăng (với dnsx); thu hẹp hoạt động; giảm lương; giảm nhân sự =&gt; lỗ =&gt; đóng cửa; phá sản =&gt; tỉ lệ thất nghiệp tăng. Tóm lại, nền kinh tế truyền thống sẽ từng bước một suy giảm để chạm đáy vào giữa 2024
 
-***2\. Biến số thị trường:*** chứng khoán Mỹ giảm để phản ánh mức định giá khi lợi nhuận doanh nghiệp giảm. Và kết thúc năm với nến giảm giá.
+***2\. Biến số thị trường:***
+
+* Chứng khoán Mỹ giảm để phản ánh mức định giá khi lợi nhuận doanh nghiệp giảm. Và kết thúc năm với nến giảm giá.
+    
+* Dòng tiền được rút ra được dịch chuyển về USD (hưởng lãi suất cao từ Fed) và đặc biệt là Gold (các central banks tăng mua gom) cho thấy các quốc gia đang nhìn thấy một xu hướng kinh tế bất ổn không chỉ một vài năm, mà ít nhất là cả thập kỷ này
+    
 
 ![S&P500 giai đoạn Dotcom 2000-2002 sau uptrend 1987-2000 (13 năm)](https://cdn.hashnode.com/res/hashnode/image/upload/v1672821403682/e3f68c3b-f1f7-4e3b-bb0b-8ea346bcfb6d.png align="center")
 
@@ -47,7 +52,13 @@ Mọi người tự có nhận định nhé!
 
 ### **II. Về thị trường Crypto**
 
-***1\. Biến số vĩ mô:*** câu chuyện tăng lãi suất của Fed không còn ảnh hưởng quá nhiều khi các yếu tố đã được phản ánh vào giá, khoảng thời gian downtrend 12-18 tháng (tùy mã) + biên độ % chiết khấu sâu giúp giá về vùng hấp dẫn. Đặc biệt, trong bối cảnh chứng khoán Mỹ bị rút vốn thì một phần nhỏ có thể được giải ngân vào Crypto (dù phần lớn thời gian là biến động cùng chiều) =&gt; hưởng lợi
+***1\. Biến số vĩ mô:*** câu chuyện tăng lãi suất của Fed không còn ảnh hưởng quá nhiều khi các yếu tố đã được phản ánh vào giá, khoảng thời gian downtrend 12-18 tháng (tùy mã) + biên độ % chiết khấu sâu giúp giá về vùng hấp dẫn. Đặc biệt, trong bối cảnh chứng khoán Mỹ bị rút vốn =&gt; chuyển sang Gold thì một phần nhỏ có thể được giải ngân vào Crypto (dù phần lớn thời gian là biến động cùng chiều) =&gt; hưởng lợi
+
+> *Liệu Bitcoin có phải Digital Gold như thiên hạ ví?*
+> 
+> Đây là cơ hội để chứng tỏ điều đó!
+> 
+> **BTC tách khỏi xu hướng của chứng khoán và cùng chiều với Gold?!**
 
 ***2\. Biến số thị trường Crypto:*** dựa trên dữ liệu mình vẫn thấy kết thúc 2023 vẫn sẽ là nến giảm (lần đầu tiên có 2 năm liền giảm giá). Nhưng trong quá trình đó thì sóng hồi phục sẽ diễn ra khá mạnh mẽ khi lực tác động của các yếu tố chi phối thị trường đã trở nên yếu đi rất nhiều, gồm lãi suất; đòn bẩy; FUD; ...
 
@@ -73,6 +84,8 @@ Như sóng hồi tháng 07/2022 (lặp lại sau 6 tháng), tiếp tục tập t
 
 Thị trường hồi phục thì nhìn chung đa số sẽ theo xu hướng. Nhưng việc chú tâm vào những mã có yếu tố cơ bản dẫn dắt; có câu chuyện riêng sẽ giúp giao dịch của chúng ta có thêm sự hỗ trợ mạnh mẽ; đa dạng hóa có kiểm soát (tối đa 5 mã)
 
+> \+ **FTM:** layer1
+> 
 > \+ **OP:** layer2
 > 
 > \+ **ENS:** web3 về domain

@@ -29,7 +29,7 @@ Mình gom các dữ liệu thấy được về 2 biến số lớn là vĩ mô 
 
 ---
 
-**I. Tổng quan thị trường chung (kinh tế truyền thống; chứng khoán):** quan sát 2 biến số
+### **I. Tổng quan thị trường chung (kinh tế truyền thống; chứng khoán):** *quan sát 2 biến số*
 
 ***1\. Biến số vĩ mô:*** câu chuyện trọng tâm của năm 2023 không còn lạm phát như 2022, mà là lợi nhuận doanh nghiệp sụt giảm =&gt; tồn kho tăng (với dnsx); thu hẹp hoạt động; giảm lương; giảm nhân sự =&gt; lỗ =&gt; đóng cửa; phá sản =&gt; tỉ lệ thất nghiệp tăng. Tóm lại, nền kinh tế truyền thống sẽ từng bước một suy giảm để chạm đáy vào giữa 2024
 
@@ -45,7 +45,7 @@ Mình gom các dữ liệu thấy được về 2 biến số lớn là vĩ mô 
 
 Mọi người tự có nhận định nhé!
 
-**II. Về thị trường Crypto**
+### **II. Về thị trường Crypto**
 
 ***1\. Biến số vĩ mô:*** câu chuyện tăng lãi suất của Fed không còn ảnh hưởng quá nhiều khi các yếu tố đã được phản ánh vào giá, khoảng thời gian downtrend 12-18 tháng (tùy mã) + biên độ % chiết khấu sâu giúp giá về vùng hấp dẫn. Đặc biệt, trong bối cảnh chứng khoán Mỹ bị rút vốn thì một phần nhỏ có thể được giải ngân vào Crypto (dù phần lớn thời gian là biến động cùng chiều) =&gt; hưởng lợi
 
@@ -55,7 +55,7 @@ Mọi người tự có nhận định nhé!
 
 > *Lực tác động của vĩ mô càng lúc càng giảm + lực nội tại thị trường Crypto được củng cố khi trả điểm "đủ" về biên độ % và thời gian =&gt; khi lực nội tại thị trường mạnh hơn thì đủ sức cover lực âm của vĩ mô*
 
-**III. Kế hoạch hành động Q1 và tháng 01/2023**
+### **III. Kế hoạch hành động Q1 và tháng 01/2023**
 
 ***1\. Yếu tố cơ bản:*** dựa trên các quan sát trên, hợp lưu cùng các sự kiện của ngành Crypto trong Q1 với bản cập nhật ETH Shanghai vào tháng 03/2023 =&gt; mình ưu tiên các vị thế Buy (Long) trong Q1, đặc biệt là tháng 01/2023 khi nền giá rất tốt =&gt; lợi thế bất cân xứng với rủi ro/bất cân xứng cung cầu
 

@@ -18,7 +18,7 @@ Như cổ nhân đã nói "có thực mới vực được đạo", phải sốn
 > 
 > **Đổ xăng ở đây chính là hành động KIẾM và GIỮ tiền, liên tục đổ khi vơi dần**
 
-Rồi, mình chủ đề chính
+Rồi, mình vào chủ đề chính
 
 Mình gom các dữ liệu thấy được về 2 biến số lớn là vĩ mô và vi mô
 

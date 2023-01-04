@@ -1,5 +1,9 @@
 # Kế hoạch giao dịch tổng thể quý 1 và chi tiết tháng 01/2023
 
+***Khai bút năm mới 2023***
+
+Happy new year, All!
+
 Năm 2022 đã khép lại và nối tiếp là năm 2023 mở ra cho tất cả chúng ta. Người rời bỏ thì cũng đã rời bỏ, người tiếp tục thì vẫn sẽ tiếp tục đồng hành với Ngài Thị trường
 
 Sau chuỗi 3 bài viết về vĩ mô và dài hạn khi đề cập về [kế hoạch 2022-2025](https://viniumcapital.com/ke-hoach-3-nam-3-giai-doan-2022-2025-dua-tren-chinh-sach-tien-te), [lãi suất Fed funds](https://viniumcapital.com/du-phong-dinh-lai-suat-fed-funds-rate-va-thoi-diem-fed-dung-tang-lai-suat) và [điểm rơi thị trường Crypto 2023](https://viniumcapital.com/du-phong-diem-roi-thi-truong-crypto-nam-2023). Mình nhận được nhiều đề nghị vạch ra kế hoạch giao dịch ngắn hạn hơn tầm 6 tháng; 3 tháng; 1 tháng

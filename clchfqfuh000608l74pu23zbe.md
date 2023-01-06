@@ -31,7 +31,7 @@ Mình gom các dữ liệu thấy được về 2 biến số lớn là vĩ mô 
 
 ### **I. Tổng quan thị trường chung (kinh tế truyền thống; chứng khoán):** *quan sát 2 biến số*
 
-***1\. Biến số vĩ mô:*** câu chuyện trọng tâm của năm 2023 không còn lạm phát như 2022, mà là lợi nhuận doanh nghiệp sụt giảm =&gt; tồn kho tăng (với dnsx); thu hẹp hoạt động; giảm lương; giảm nhân sự =&gt; lỗ =&gt; đóng cửa; phá sản =&gt; tỉ lệ thất nghiệp tăng. Tóm lại, nền kinh tế truyền thống sẽ từng bước một suy giảm để chạm đáy vào giữa 2024
+***1\. Biến số vĩ mô:*** câu chuyện trọng tâm của năm 2023 không còn lạm phát là như 2022, mà là lợi nhuận doanh nghiệp sụt giảm =&gt; tồn kho tăng (với dnsx); thu hẹp hoạt động; giảm lương; giảm nhân sự =&gt; lỗ =&gt; đóng cửa; phá sản =&gt; tỉ lệ thất nghiệp tăng. Tóm lại, nền kinh tế truyền thống sẽ từng bước một suy giảm để chạm đáy vào giữa 2024
 
 ***2\. Biến số thị trường:***
 

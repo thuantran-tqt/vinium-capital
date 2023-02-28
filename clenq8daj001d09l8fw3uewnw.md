@@ -48,11 +48,11 @@ Quy chiếu với giai đoạn 1970-1980 thì lạm phát cũng từng giảm nh
 
 > *QE có khả năng rất cao là không xảy ra khi Fed đang thực hiện lộ trình QT từ từ và chậm rãi. Nghĩa là sẽ không có chuyện tăng cung tiền trong giai đoạn này!*
 
-***2026-2027:*** họ sẽ tạo ra câu chuyện thắt cung để lạm phát tăng trở lại (cầu cơ bản khó giảm sâu) với mức lạm phát 2 con số =&gt; Fed tăng lãi suất với đỉnh sóng 3 cao hơn sóng 1 =&gt; Downtrend =&gt; Fed hút tiền
+***2026-2027:*** họ sẽ tạo ra câu chuyện thắt cung để lạm phát tăng trở lại (cầu cơ bản khó giảm sâu) với mức lạm phát 2 con số =&gt; Fed tăng lãi suất với đỉnh sóng 3 cao hơn sóng 1 =&gt; Fed hút tiền =&gt; giá tài sản giảm
 
 ***2028-2029:*** lạm phát về &lt; x% =&gt; lãi suất thực dương =&gt; Fed lại cắt giảm lãi suất =&gt; Uptrend =&gt; giá tài sản lập ATH =&gt; **chu kỳ 100 năm đại khủng hoảng 1929-2029 lặp lại?!**
 
-***2030:*** họ tiếp tục tạo ra câu chuyện thắt cung để lạm phát lên đỉnh điểm =&gt; Fed tăng lãi suất với đỉnh sóng 5 =&gt; Downtrend mạnh =&gt; Fed hút tiền nhịp cuối!
+***2030:*** họ tiếp tục tạo ra câu chuyện thắt cung để lạm phát lên đỉnh điểm =&gt; Fed tăng lãi suất với đỉnh sóng 5 =&gt; Fed hút tiền nhịp cuối =&gt; giá tài sản giảm sâu
 
 **Reset game thành công!**
 

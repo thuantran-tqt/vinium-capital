@@ -1,10 +1,21 @@
-# Dự phóng đỉnh lãi suất Fed Funds rate và thời điểm Fed dừng tăng lãi suất
+---
+title: "Dự phóng đỉnh lãi suất Fed Funds rate và thời điểm Fed dừng tăng lãi suất"
+seoTitle: "Dự phóng đỉnh lãi suất Fed Funds rate và thời điểm dừng tăng lãi suất"
+seoDescription: "Nhân đọc phát biểu của một trong những bậc thầy về đầu tư - Ray Dalio, mình viết luôn về dự phóng chi tiết lộ trình tăng lãi suất trong 2 quý đầu 2023"
+datePublished: Fri Dec 09 2022 00:30:45 GMT+0000 (Coordinated Universal Time)
+cuid: clbfrv3p8087iqjnvff8i9cnp
+slug: du-phong-dinh-lai-suat-fed-funds-rate-va-thoi-diem-fed-dung-tang-lai-suat
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670520125927/cPdhG1pep.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1670520274382/FsmiVcXt1.jpg
+tags: bitcoin, planning, cryptocurrency, investing-and-trading, fed
+
+---
 
 *Nhân đọc phát biểu của một trong những bậc thầy về đầu tư - Ray Dalio, mình viết luôn về dự phóng chi tiết lộ trình tăng lãi suất trong 2 quý đầu của năm 2023 và khoảng thời gian Fed giữ nguyên lãi suất (tương ứng với thị trường hồi phục mạnh)*
 
 *Xem thêm* [tại đây](https://vn.investing.com/news/stock-market-news/ty-phu-ray-dalio-canh-bao-ttck-chua-duoc-dinh-gia-trong-dot-tang-lai-suat-sa-p-toi-2004353)
 
-* * *
+---
 
 Tại thời điểm mình đang viết bài, trước 1 tuần thời điểm Fed công bố mức tăng lãi suất trong phiên họp tháng 12 với dự kiến tăng thêm 0.5% =&gt; đưa lãi suất lên 4.25-4.50%
 
@@ -16,27 +27,27 @@ Có 2 kịch bản sau:
 > 
 > \- 02/02/2023: +0.5% =&gt; 4.75-5.00%
 > 
-> \- 16/03/2023: +0.5% =&gt; 5.25-5.50%
+> \- 23/03/2023: +0.5% =&gt; 5.25-5.50%
 > 
 > \- 04/05/2023: +0.25% =&gt; 5.50-5.75%
 > 
 > \- 15/06/2023: +0.25% =&gt; 5.75-6.00% và phát tín hiệu giữ nguyên kể từ đây ***(giống phiên họp 19/12/2018)***
 > 
-> \- 23/07/2023: giữ nguyên
+> \- 27/07/2023: giữ nguyên
 
-* * *
+---
 
 > **Kịch bản 2**
 > 
 > \- 02/02/2023: +0.5% =&gt; 4.75-5.00%
 > 
-> \- 16/03/2023: +0.25% =&gt; 5.00-5.25%
+> \- 23/03/2023: +0.25% =&gt; 5.00-5.25%
 > 
 > \- 04/05/2023: +0.25% =&gt; 5.25-5.50%
 > 
 > \- 15/06/2023: +0.25% =&gt; 5.50-5.75%
 > 
-> \- 23/07/2023: +0.25% =&gt; 5.75-6.00% và phát tín hiệu giữ nguyên kể từ đây ***(giống phiên họp 19/12/2018)***
+> \- 27/07/2023: +0.25% =&gt; 5.75-6.00% và phát tín hiệu giữ nguyên kể từ đây ***(giống phiên họp 19/12/2018)***
 
 ![FED tăng 0.25% và phát tín hiệu giữ nguyên lãi suất vào phiên họp 19/12/2018 => BTC tạo đáy 17/12/2018 và thị trường có 6 tháng tăng mạnh (thực chất là nhịp hồi))](https://cdn.hashnode.com/res/hashnode/image/upload/v1670519022877/kkmrYhi5I.png align="center")
 

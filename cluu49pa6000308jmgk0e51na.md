@@ -5,6 +5,7 @@ seoDescription: "Sau khoảng 1 năm rưỡi kể từ bài viết hôm 28/10/20
 datePublished: Wed Apr 10 2024 18:01:12 GMT+0000 (Coordinated Universal Time)
 cuid: cluu49pa6000308jmgk0e51na
 slug: ke-hoach-q2-den-cuoi-nam-2024
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712772134678/73d087ce-6378-4e50-b4a4-fba52fa774a8.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712772016000/5426f9b8-a176-4f54-a406-5719a3657c5c.jpeg
 tags: bitcoin, planning, cryptocurrency
 
